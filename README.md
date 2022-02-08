@@ -1,15 +1,17 @@
 
-# Hi 👋🏾, I'm Mo
+<h1 align="center">Hi 👋🏾,  I'm Mo</h1>
+<h3 align="center">A Life sciences graduate who specialises in Front-Development using React & JavaScript.</h3>
 
-I'm a Life sciences graduate who specialises in Front-Development using React & JavaScript.
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MuhammadAli-ai&color=55acb7&style=for-the-badge&logo=Github)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
 
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React JS
-- 📫 How to reach me: Twitter
-- ⚡ Fun fact: ...
+- 📫 How to reach me: [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Khaife_Codes)
+- 💬 Talk to me about NBA, JavaScript, python.
 
 <br/>
 
@@ -41,4 +43,14 @@ Here are some ideas to get you started:
 
 
 <br/>
-<br/>
+
+## 📅 Hobbies
+- Solve programming problems at Codewars
+- Watch anime and Tv shows
+- Jogging my weekly goal is 25km
+- etc.
+
+ <br/>
+
+## 💬 My Favourite Coding Quotes
+> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
