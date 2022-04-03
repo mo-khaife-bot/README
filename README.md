@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋🏾,  I'm Mo</h1>
 <h3 align="center">A Life sciences graduate who specialises in Front-Development using React & JavaScript.</h3>
 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MuhammadAli-ai&color=55acb7&style=for-the-badge&logo=Github)
 
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
