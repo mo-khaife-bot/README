@@ -1,6 +1,18 @@
+![alt text](https://github.com/MuhammadAli-ai/MuhammadAli-ai/blob/main/profile.png?raw=true "Logo Title Text")
 
-<h1 align="center">Hi 👋🏾,  I'm Mo</h1>
-<h3 align="center">A Life sciences graduate who specialises in Front-Development using React & JavaScript.</h3>
+<p align="center">
+<a href="https://twitter.com/Khaife_Codes"><img src="https://img.shields.io/badge/@Khaife_Codes-4b33bb?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="mailto:mokhaife.ali@gmail.com"><img src="https://img.shields.io/badge/mokhaife.ali@gmail.com-4b33bb?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+    <a href="https://www.linkedin.com/in/mohomed-ali-5b319614/"><img src="https://img.shields.io/badge/Mohomed_Ali-4b33bb?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<!-- <a href="https://dev.to/USER"><img src="https://img.shields.io/badge/Download_Resume-4b33bb?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
+</p> -->
+
+<p align="center">
+    Hi 👋🏾, I'm Mohomed Khaife ali, a self-taught Frontend Developer based in London. I love creating beautiful interfaces, web apps, and everything in between!
+</p>
+
+
+
 
 
 
@@ -14,18 +26,36 @@ Here are some ideas to get you started:
 
 <br/>
 
-## 🚀 My Languages and Tools:
+<!--Analytics & Data-->
+<h2 align="center">Data & Analytics</h2>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src= "https://github-readme-streak-stats.herokuapp.com?user=MuhammadAli-ai&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=4B33BB&fire=004AAD&currStreakNum=004AAD&sideNums=004AAD&currStreakLabel=4B33BB&sideLabels=4B33BB&dates=FFFFFF">
+</td>
+<td width="50%">
+ 
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ssaryonjr&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00&include_all_commits=true&count_private=true">
+</table>
+</div>
+<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=FFFFFF00&color=fa8b00&line=D14836&point=fa8b00&hide_border=true&title_color=">
+    
 
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-    <a href="https://sass-lang.com/" target ="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+<h2 align="center">Technical Skills</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-D14836?style=for-the-badge&logo=html5&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/CSS3-D14836?style=for-the-badge&logo=css3&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/JavaScript-D14836?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
+<img src="https://img.shields.io/badge/Node.js-D14836?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/React-D14836?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
+<img src="https://img.shields.io/badge/Express.js-D14836?style=for-the-badge&logo=express&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/MongoDB-D14836?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Figma-D14836?style=for-the-badge&logo=figma&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/firebase-D14836?style=for-the-badge&logo=firebase&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/jQuery-D14836?style=for-the-badge&logo=jquery&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Visual_Studio-D14836?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/GIT-D14836?style=for-the-badge&logo=git&logoColor=white" height=25>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
