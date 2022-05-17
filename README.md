@@ -32,11 +32,13 @@ Here are some ideas to get you started:
 <table>
 <tr>
 <td width="50%">
-<img width="100%" src= "https://github-readme-streak-stats.herokuapp.com?user=MuhammadAli-ai&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=4B33BB&fire=004AAD&currStreakNum=004AAD&sideNums=004AAD&currStreakLabel=4B33BB&sideLabels=4B33BB&dates=FFFFFF">
+<!-- <img width="100%" src= "https://github-readme-streak-stats.herokuapp.com?user=MuhammadAli-ai&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=4B33BB&fire=004AAD&currStreakNum=004AAD&sideNums=004AAD&currStreakLabel=4B33BB&sideLabels=4B33BB&dates=FFFFFF"> -->
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAli-ai&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=4B33BB&fire=004AAD&currStreakNum=004AAD&background=FFFFFF00&sideNums=004AAD&currStreakLabel=4B33BB&sideLabels=4B33BB&dates=FFFFFF">
 </td>
 <td width="50%">
  
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ssaryonjr&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=MuhammadAli-ai&show_icons=true&bg_color=FFFFFF00&hide_border=true&text_color=4B33BB&title_color=004AAD&include_all_commits=true&count_private=true">
 </table>
 </div>
 <img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=FFFFFF00&color=fa8b00&line=D14836&point=fa8b00&hide_border=true&title_color=">
