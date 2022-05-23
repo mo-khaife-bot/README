@@ -18,16 +18,19 @@
 <tr>
 <td width="50%">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAli-ai&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=4B33BB&fire=004AAD&currStreakNum=004AAD&background=FFFFFF00&sideNums=004AAD&currStreakLabel=4B33BB&sideLabels=4B33BB&dates=FFFFFF">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=mo-khaife-bot
+&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=4B33BB&fire=004AAD&currStreakNum=004AAD&background=FFFFFF00&sideNums=004AAD&currStreakLabel=4B33BB&sideLabels=4B33BB&dates=FFFFFF">
 </td>
     
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=MuhammadAli-ai&show_icons=true&bg_color=FFFFFF00&hide_border=true&text_color=4B33BB&title_color=004AAD&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mo-khaife-bot
+&show_icons=true&bg_color=FFFFFF00&hide_border=true&text_color=4B33BB&title_color=004AAD&include_all_commits=true&count_private=true">
 </td>
     
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=MuhammadAli-ai&bg_color=FFFFFF00&color=4B33BB&line=4B33BB&point=004AAD&hide_border=true&title_color=4B33BB">
+<img src="https://activity-graph.herokuapp.com/graph?username=mo-khaife-bot
+&bg_color=FFFFFF00&color=4B33BB&line=4B33BB&point=004AAD&hide_border=true&title_color=4B33BB">
     
 
 <h2 align="center">Technical Skills</h2>
@@ -45,6 +48,7 @@
 <!-- <img src="https://img.shields.io/badge/jQuery-004AAD?style=for-the-badge&logo=jquery&logoColor=white" height=35> -->
 <img src="https://img.shields.io/badge/Visual_Studio-4b33bb?style=for-the-badge&logo=visual%20studio&logoColor=white" height=35>
 <img src="https://img.shields.io/badge/GIT-004AAD?style=for-the-badge&logo=git&logoColor=white" height=35>
+<img src="https://img.shields.io/badge/Next.js-4b33bb?style=for-the-badge&logo=nextdotjs&logoColor=white" height=35>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
