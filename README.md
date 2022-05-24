@@ -1,4 +1,4 @@
-![alt text](https://github.com/MuhammadAli-ai/MuhammadAli-ai/blob/main/profile.png?raw=true "Logo Title Text")
+![alt text](https://github.com/mo-khaife-bot/MuhammadAli-ai/blob/main/profile.png?raw=true "Logo Title Text")
 
 <p align="center">
 <a href="https://twitter.com/Khaife_Codes"><img src="https://img.shields.io/badge/@Khaife__Codes-4b33bb?&style=for-the-badge&logo=twitter&logoColor=white" height=35></a>
@@ -18,19 +18,16 @@
 <tr>
 <td width="50%">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=mo-khaife-bot
-&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=4B33BB&fire=004AAD&currStreakNum=004AAD&background=FFFFFF00&sideNums=004AAD&currStreakLabel=4B33BB&sideLabels=4B33BB&dates=FFFFFF">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=mo-khaife-bot&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=4B33BB&fire=004AAD&currStreakNum=004AAD&background=FFFFFF00&sideNums=004AAD&currStreakLabel=4B33BB&sideLabels=4B33BB&dates=FFFFFF">
 </td>
     
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mo-khaife-bot
-&show_icons=true&bg_color=FFFFFF00&hide_border=true&text_color=4B33BB&title_color=004AAD&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mo-khaife-bot&show_icons=true&bg_color=FFFFFF00&hide_border=true&text_color=4B33BB&title_color=004AAD&include_all_commits=true&count_private=true">
 </td>
     
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=mo-khaife-bot
-&bg_color=FFFFFF00&color=4B33BB&line=4B33BB&point=004AAD&hide_border=true&title_color=4B33BB">
+<img src="https://activity-graph.herokuapp.com/graph?username=mo-khaife-bot&bg_color=FFFFFF00&color=4B33BB&line=4B33BB&point=004AAD&hide_border=true&title_color=4B33BB">
     
 
 <h2 align="center">Technical Skills</h2>
