@@ -41,14 +41,16 @@
 <img src="https://img.shields.io/badge/JavaScript-4b33bb?style=for-the-badge&logo=javascript&logoColor=white" height=35>
 <img src="https://img.shields.io/badge/Node.js-004AAD?style=for-the-badge&logo=nodedotjs&logoColor=white" height=35>
 <img src="https://img.shields.io/badge/React-4b33bb?style=for-the-badge&logo=react&logoColor=white" height=35>
-<img src="https://img.shields.io/badge/Express.js-004AAD?style=for-the-badge&logo=express&logoColor=white" height=35>
-<img src="https://img.shields.io/badge/MongoDB-4b33bb?style=for-the-badge&logo=mongodb&logoColor=white" height=35>
+<!-- <img src="https://img.shields.io/badge/Express.js-004AAD?style=for-the-badge&logo=express&logoColor=white" height=35> -->
+<!-- <img src="https://img.shields.io/badge/MongoDB-4b33bb?style=for-the-badge&logo=mongodb&logoColor=white" height=35> -->
 <img src="https://img.shields.io/badge/Figma-004AAD?style=for-the-badge&logo=figma&logoColor=white" height=35>
 <!-- <img src="https://img.shields.io/badge/firebase-4b33bb?style=for-the-badge&logo=firebase&logoColor=white" height=35> -->
 <!-- <img src="https://img.shields.io/badge/jQuery-004AAD?style=for-the-badge&logo=jquery&logoColor=white" height=35> -->
 <img src="https://img.shields.io/badge/Visual_Studio-4b33bb?style=for-the-badge&logo=visual%20studio&logoColor=white" height=35>
 <img src="https://img.shields.io/badge/GIT-004AAD?style=for-the-badge&logo=git&logoColor=white" height=35>
 <img src="https://img.shields.io/badge/Next.js-4b33bb?style=for-the-badge&logo=nextdotjs&logoColor=white" height=35>
+<img src="https://img.shields.io/badge/sass-004AAD?style=for-the-badge&logo=sass&logoColor=white" height=35>
+<img src="https://img.shields.io/badge/Bootstrap-4b33bb?style=for-the-badge&logo=bootstrap&logoColor=white" height=35>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
